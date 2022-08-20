@@ -8,5 +8,5 @@
 
 print("That's how we write print function in python")
 
-# First we write print then bracket and then quotation mark after that we wrte the name we want to print in between the quotion mark .
+# First we write print then bracket and then quotation mark after that we wrte the name we want to print in between the quotion mark .  
  
